@@ -1,0 +1,11 @@
+{
+  "name": "v2",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "sass": "sass --no-source-map --watch ./main.scss:./style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
